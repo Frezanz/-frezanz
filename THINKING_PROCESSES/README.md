@@ -11,3 +11,8 @@ For each process, record:
 - implementation implications
 - evidence
 - limitations
+
+## Current processes
+
+- [Reasoning path network](reasoning-path-network.md)
+- [Attention and reactivation loop](attention-reinforcement-loop.md)
